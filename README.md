@@ -18,6 +18,8 @@
 
 ###### Last updated : 02/09/2022 11:50 PM IST
 
+----------
+
 > ###### Day 2 (02/09/2022):
 
 ###### - Focused on backend. Develop url structures using .htaccess.
