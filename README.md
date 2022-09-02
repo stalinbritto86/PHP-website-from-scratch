@@ -16,7 +16,7 @@
 
 ###### Below am updating the days in descending with small description, what I have done in daily basis.
 
-###### - Last updated : 02/09/2022 11:50 PM IST
+###### Last updated : 02/09/2022 11:50 PM IST
 
 > ###### Day 2 (02/09/2022):
 
