@@ -1,0 +1,22 @@
+// footer section
+
+@import "variables";
+
+footer {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin: 200px 0 0;
+    background: $theme_color_4;
+
+    .copyright-text {
+        width: 100%;
+        height: 30px;
+        padding: 20px 0 0;
+        font: 400 14px $font_1;
+        text-align: center;
+        color: #333;
+        border-top: 1px solid rgba(128, 128, 128, 0.2);
+    }
+
+}
