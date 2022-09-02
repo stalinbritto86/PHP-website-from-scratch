@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <footer>Copyrights @ 2022 My Brand. All Rights Reserved.</footer>
+    <footer>Copyrights 2022 My Brand. All Rights Reserved.</footer>
 
 </body>
 
