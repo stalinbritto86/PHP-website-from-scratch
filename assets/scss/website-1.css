@@ -1,0 +1,158 @@
+/* all scss files included here */
+html,
+body {
+  position: relative;
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+html a,
+body a {
+  text-decoration: none;
+}
+html ul,
+html li,
+body ul,
+body li {
+  margin: 0;
+  padding: 0;
+  list-style: none !important;
+}
+html h1,
+html h2,
+html h3,
+html h4,
+html p,
+html div,
+html span,
+body h1,
+body h2,
+body h3,
+body h4,
+body p,
+body div,
+body span {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.row {
+  position: relative;
+  float: left;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#top-bar {
+  position: relative;
+  float: left;
+  width: 100%;
+  height: 80px;
+  top: 0;
+  background: #fff;
+}
+#top-bar .brand-logo {
+  float: left;
+  margin: 0 0 0 20px;
+  padding: 0 10px;
+  font: 900 26px/80px "Lato", sans-serif;
+  color: #277BC0;
+  background: #FFF4CF;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#top-bar ul {
+  float: right;
+  margin: 0 20px 0 0;
+  cursor: pointer;
+}
+#top-bar ul li {
+  display: inline;
+  margin: 0 20px 0 0;
+}
+#top-bar ul li:last-child {
+  margin: 0 10px 0 0 !important;
+}
+#top-bar ul li a {
+  position: relative;
+  top: 10px;
+  font: 400 16px/80px "Lato", sans-serif;
+  color: #333;
+}
+
+#section-1 {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+#section-1 .subsection-1 {
+  position: relative;
+  float: left;
+  padding: 100px;
+}
+#section-1 h2 {
+  margin: 0 0 6px;
+  font: 900 80px "Lato", sans-serif;
+  color: #333;
+}
+#section-1 h2 .style-1 {
+  color: #277BC0;
+}
+#section-1 p {
+  font: 700 34px "Lato", sans-serif;
+  color: #333;
+}
+#section-1 .text-3 {
+  margin: 30px 0 0;
+  font: 400 24px "Lato", sans-serif;
+}
+#section-1 .button {
+  float: left;
+  width: 150px;
+  height: 35px;
+  margin: 20px 0;
+  padding: 6px 0 0;
+  font: 700 18px/30px "Lato", sans-serif;
+  text-align: center;
+  color: #fff;
+  background: #277BC0;
+  border-radius: 2px;
+}
+
+#section-2 {
+  position: relative;
+  float: left;
+  display: table;
+  width: 100%;
+  height: auto;
+  background: #FFF4CF;
+}
+#section-2 .section-2-cont {
+  vertical-align: middle;
+  display: table-cell;
+  padding: 50px 100px;
+}
+#section-2 li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  height: auto;
+  text-align: center;
+}
+#section-2 li i {
+  padding: 15px;
+  font-size: 34px;
+  color: #333;
+  background: #d1d1d1;
+  border-radius: 50%;
+}
+#section-2 li span {
+  display: block;
+  margin: 15px 0 0;
+  font: 700 18px "Lato", sans-serif;
+  color: #555;
+}/*# sourceMappingURL=website-1.css.map */
