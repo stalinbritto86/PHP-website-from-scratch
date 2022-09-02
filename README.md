@@ -16,19 +16,22 @@
 
 ###### Below am updating the days in descending with small description, what I have done in daily basis.
 
-###### - Last updated : 02/09/2022 10:00 PM IST
+###### - Last updated : 02/09/2022 11:50 PM IST
 
 > ###### Day 2 (02/09/2022):
 
-###### -
-###### -
+###### - Focused on backend. Develop url structures using .htaccess.
+###### - Choosed a theme pallete.
+###### - Started developing footer section.
+###### - Split the header and footer files in seperate files for easy maintenance.
+###### - Still not responsive.
   
 ----------
 
 > ###### Day 1 (01/09/2022):
 
 ###### - Planned the structure of the website, how it going to be.
-###### - Started developing /homepage.php. Biuld a basic structure of SASS for easy maintanance.
+###### - Started developing /homepage.php. Biuld a basic structure of SASS for easy maintenance.
 ###### - Developed topbar, and contents to be displayed on top of the homepage.
 ###### - Not responsive! Only designed for wider devices having and more than 1280px.
   
