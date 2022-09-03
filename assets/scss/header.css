@@ -11,8 +11,8 @@
   margin: 0 0 0 20px;
   padding: 0 10px;
   font: 900 26px/80px "Lato", sans-serif;
-  color: #277BC0;
-  background: #FFF4CF;
+  color: #194f92;
+  background: #cbd5f0;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
@@ -35,5 +35,5 @@
   color: #333;
 }
 #top-bar ul li a:hover {
-  border-bottom: 4px solid #277BC0;
+  border-bottom: 4px solid #194f92;
 }/*# sourceMappingURL=header.css.map */
