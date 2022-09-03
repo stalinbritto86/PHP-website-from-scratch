@@ -16,8 +16,15 @@
 
 ###### Below am updating the days in descending with small description, what I have done in daily basis.
 
-###### Last updated : 02/09/2022 11:50 PM IST
+###### Last updated : 03/09/2022 10:05 PM IST
 
+----------
+
+> ###### Day 3 (03/09/2022):
+
+###### - Working on footer section. Planned how to design homepage.php.
+###### - Not responsive yet.
+  
 ----------
 
 > ###### Day 2 (02/09/2022):
