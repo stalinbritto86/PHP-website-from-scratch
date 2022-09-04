@@ -20,6 +20,12 @@
 
 ----------
 
+> ###### Day 4 (04/09/2022):
+
+Lol! Its sunday. Prepared for interview.
+
+----------
+
 > ###### Day 3 (03/09/2022):
 
 ###### - Working on footer section. Planned how to design homepage.php.
@@ -29,7 +35,7 @@
 
 > ###### Day 2 (02/09/2022):
 
-###### - Focused on backend. Develop url structures using .htaccess.
+###### - Focused on backend. Develop url structures using .htaccess (apache).
 ###### - Choosed a theme pallete.
 ###### - Started developing footer section.
 ###### - Split the header and footer files in seperate files for easy maintenance.
